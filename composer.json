@@ -1,0 +1,16 @@
+{
+    "name": "feh/cadastro-presenca",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Feh\\CadastroPresenca\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayhem-eng",
+            "email": "feeduardogaviao@gmail.com"
+        }
+    ],
+    "require": {}
+}
